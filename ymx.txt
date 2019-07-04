@@ -1,2 +1,3 @@
 ymx is a brave hero in the .
 yangmaxinis 
+function learn git
